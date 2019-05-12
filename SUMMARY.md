@@ -18,14 +18,14 @@
 
 ## 이동 안전
 
-* [도보](safety-moving/street.md)
 * [버스](safety-moving/bus.md)
 * [항공](safety-moving/plane.md)
+* [지진 발생 시](safety-moving/earthquake.md)
 
 ## 숙소 안전
 
-* [화재 예방](safety-house/fire.md)
-* [지진 예방](safety-house/earthquake.md)
+* [화재 발생 시](safety-house/fire.md)
+* [지진 발생 시](safety-house/earthquake.md)
 * [승강기 추락 사고](safety-house/lift.md)
 * [투숙객 자살 소동](safety-house/selfdie.md)
 * [회전문으로 인한 사고](safety-house/revolving-door.md)
