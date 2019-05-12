@@ -13,6 +13,8 @@
 * [투모로우랜드](disneyland/tomorrowland.md)
 * [트레져 코브](disneyland/treasure-cove.md)
 * [디즈니 타운](disneyland/disneytown.md)
+* [꿀팁](disneyland/kkul-tip.md)
+* [패스트패스](disneyland/fastpass.md)
 
 ## 이동 안전
 
