@@ -54,7 +54,6 @@
 
 * [식사 예절](etiquette/table.md)
 * [선물 예절](etiquette/gift.md)
-* [술 예절](etiquette/drink.md)
 * [차 예절](etiquette/tea.md)
 * [행동 예절](etiquette/behavior.md)
 
